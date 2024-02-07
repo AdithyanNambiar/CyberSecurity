@@ -1,6 +1,6 @@
 # Mock Security Audit On Botium Toys
 
-# Table of contents
+# Table of Content
 
 1. [Introduction](#introduction)
 2. [Scenario](#scenario)
