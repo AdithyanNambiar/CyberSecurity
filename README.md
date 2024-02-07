@@ -1,4 +1,4 @@
-# Botium-Toys-Security-Audit-Writeup
+# Mock Security Audit On Botium Toys
 
 # Table of contents
 
@@ -246,5 +246,5 @@ At Botium Toys' phyiscal location which includes Botium Toys’ main offices, st
    
    I also some trouble initially in explaining how the System and Organizations Controls standard relates to organizational user access policies, confidentiality, privacy, integrity, availability, security, and overall data safety and levels of risks, not just financial compliance while conducting the audit.
 
-   Best regards,
-Adithyan Shaji
+Best regards,\
+Adithyan Shaji\
