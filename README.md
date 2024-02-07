@@ -118,11 +118,11 @@ Assets managed by the IT Department include:
 | --- | --- | --- | --- |
 | Time-controlled safe | Deterrent; reduce attack surface/impact of physical threats | X | Medium/Low |
 | Adequate lighting | Deterrent; limit “hiding” places to deter threats | X | Medium/Low |
-| Closed-circuit television (CCTV) surveillance | Preventative/detective; can reduce risk of certain events; can be used after event for investigation | NA | High/Medium |
-| Locking cabinets (for network gear) | Preventative; increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear | NA | High/Medium |
+| Closed-circuit television (CCTV) surveillance | Preventative/detective; can reduce risk of certain events; can be used after event for investigation | NA | NA |
+| Locking cabinets (for network gear) | Preventative; increase integrity by preventing unauthorized personnel/individuals from physically accessing/modifying network infrastructure gear | NA | NA |
 | Signage indicating alarm service provider | Deterrent; makes the likelihood of a successful attack seem low | X | Low |
 | Locks | Preventative; physical and digital assets are more secure | X | High |
-| Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | NA | Medium |
+| Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative; detect fire in the toy store’s physical location to prevent damage to inventory, servers, etc. | NA | NA |
 
 Compliance checklist
 ====================
