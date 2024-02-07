@@ -233,7 +233,7 @@ It is recommended that the critical findings relating to compliance with PCI and
 
 Disaster recovery plans and backups are recommended as they will support business continuity in the event of an incident occuring ranging from a physical disaster such as a fire, or worse case scenario of a cyber attack or technical issue impacting business productivity  as a part of a data and system resilience strategy.
 
-Integrating an IDS and AV software into current systems will give the ability to assist with intrusion detection and spot and mitigate potential risks while taking into account the existing legacy systems that need manual monitoring and intervention. 
+Anti Virus Software and Firewall are installed and monitored regularly by the IT department.
 
 At Botium Toys' phyiscal location which includes Botium Toys’ main offices, store front, and warehouse of products, sufficient locks and CCTV have been used to secure physical assets and to monitor for potential threats. Having a time-controlled safe, adequate lighting, and signage indicating alarm service provider will further improve Botium Toys' security posture.
    
