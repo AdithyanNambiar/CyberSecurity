@@ -109,7 +109,7 @@ Assets managed by the IT Department include:
 | Encryption | Deterrent; makes confidential information/data more secure (e.g., website payment transactions) | X | High |
 | Backups | Corrective; supports ongoing productivity in the case of an event; aligns to the disaster recovery plan | X | High |
 | Password management system | Corrective; password recovery, reset, lock out notifications | X | High |
-| Antivirus (AV) software | Corrective; detect and quarantine known threats | X | High |
+| Antivirus (AV) software | Corrective; detect and quarantine known threats | NA | NA |
 | Manual monitoring, maintenance, and intervention | Preventative/corrective; required for legacy systems to identify and mitigate potential threats, risks, and vulnerabilities | X | High |
 
 
@@ -206,8 +206,6 @@ Please review the following information regarding the Botium Toys internal audit
 - Backups
 
 - Implementation of a Password management system
-
-- Antivirus (AV) software
 
 - Manual monitoring, maintenance, and intervention for legacy systems
 
